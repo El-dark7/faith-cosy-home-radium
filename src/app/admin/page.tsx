@@ -1,32 +1,20 @@
-export default function AdminPage() {
+import DashboardCards
+from "@/components/DashboardCards";
 
-  return (
-    <div className="p-10">
+export default function AdminPage(){
 
-      <h1 className="text-4xl font-bold mb-8">
-        Admin Dashboard
-      </h1>
+ return(
 
-      <div className="grid md:grid-cols-4 gap-6">
+ <div className="p-10">
 
-        <div className="p-6 border rounded-xl">
-          Total Bookings
-        </div>
+  <h1 className="text-5xl font-bold mb-8">
+   Faith Cosy Homes Dashboard
+  </h1>
 
-        <div className="p-6 border rounded-xl">
-          Guests
-        </div>
+  <DashboardCards/>
 
-        <div className="p-6 border rounded-xl">
-          Messages
-        </div>
+ </div>
 
-        <div className="p-6 border rounded-xl">
-          Occupancy
-        </div>
+ );
 
-      </div>
-
-    </div>
-  );
 }
