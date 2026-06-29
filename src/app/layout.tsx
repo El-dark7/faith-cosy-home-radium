@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Radium Residence",
+  title: "Faith cosy homes",
   description:
     "Luxury 3 Bedroom Apartment in Nyali Mombasa"
 };
