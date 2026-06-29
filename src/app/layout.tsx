@@ -13,7 +13,7 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Radium Residence | Luxury Apartments in Nyali",
+  title: "Faith  cosy Homes | Luxury Apartments in Nyali",
   description:
     "Experience premium living in Nyali with luxury apartments featuring swimming pool, elevator, secure parking and modern finishes.",
   keywords: [
