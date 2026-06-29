@@ -9,7 +9,7 @@ export default function GoogleMap() {
         </h2>
 
         <iframe
-          src="https://www.google.com/maps/embed"
+          src="https://maps.app.goo.gl/Pa7KvPott7yCQr5c6/maps/embed"
           width="100%"
           height="500"
           loading="lazy"
